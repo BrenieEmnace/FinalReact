@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "stuname": "Brenie Emnace",
+      "stuaddress": "Cawayanan, Tubigon, Bohol",
+      "stunumber": "09382240021",
+      "email": "emnacebrenie@gmail.com",
+      "id": 1
+    },
+    {
+      "stuname": "Tedelyn Mula",
+      "stuaddress": "Pinayagan Norte, Tubigon, Bohol",
+      "stunumber": "09876543210",
+      "email": "tedelynmula@gmail.com",
+      "id": 2
+    }
+  ]
+}
